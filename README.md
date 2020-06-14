@@ -1,0 +1,2 @@
+# ScratchExtension
+Example scratch extension
